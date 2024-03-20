@@ -1,6 +1,0 @@
-[core]
-    remote = project_sprint_1
-['remote "project_sprint_1"']
-    url = s3://s3-student-mle-20240226-059a2462fd
-    endpointurl = https://storage.yandexcloud.net
-    version_aware = true
